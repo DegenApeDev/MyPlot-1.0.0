@@ -2,7 +2,7 @@ name: MyPlot
 main: MyPlot\MyPlot
 version: 1.0
 load: STARTUP
-api: 1.0.0,2.0.0
+api: 3.0.0-ALPHA8
 author: Wies and Exxarion
 description: Plot and protection plugin
 softdepend: [EconomyAPI, PocketMoney]
